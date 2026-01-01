@@ -8,16 +8,16 @@
           <mxGeometry x="314" y="127" width="211" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-2" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="99" y="206" width="97" height="40" as="geometry" />
+          <mxGeometry x="158" y="207" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-4" value="前端可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508" y="206" width="97" height="40" as="geometry" />
+          <mxGeometry x="567" y="207" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-5" value="数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248" y="206" width="97" height="40" as="geometry" />
+          <mxGeometry x="307" y="207" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-6" value="智能检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="387" y="206" width="97" height="40" as="geometry" />
+          <mxGeometry x="446" y="207" width="97" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

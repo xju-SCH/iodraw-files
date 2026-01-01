@@ -10,7 +10,7 @@
         <mxCell id="iNggaVOu61Ulj2DObTOb-2" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="99" y="206" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iNggaVOu61Ulj2DObTOb-4" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iNggaVOu61Ulj2DObTOb-4" value="前端可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508" y="206" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-5" value="数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

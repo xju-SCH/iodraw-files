@@ -14,10 +14,10 @@
           <mxGeometry x="508" y="206" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-5" value="数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="248" y="224" width="97" height="40" as="geometry" />
+          <mxGeometry x="248" y="206" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-6" value="智能检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="387" y="231" width="97" height="40" as="geometry" />
+          <mxGeometry x="387" y="206" width="97" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

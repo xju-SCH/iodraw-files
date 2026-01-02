@@ -42,6 +42,18 @@
         <mxCell id="c1Ox-23KR0TA84bPEa5O-2" value="诊断记录模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="219" y="307" width="37" height="94" as="geometry" />
         </mxCell>
+        <mxCell id="c1Ox-23KR0TA84bPEa5O-3" value="用户信息模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="310" y="307" width="37" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="c1Ox-23KR0TA84bPEa5O-4" value="诊断记录模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="368" y="305" width="37" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="c1Ox-23KR0TA84bPEa5O-5" value="用户信息模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="181" y="329" width="37" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="c1Ox-23KR0TA84bPEa5O-6" value="诊断记录模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="239" y="327" width="37" height="94" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

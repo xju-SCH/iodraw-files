@@ -48,7 +48,7 @@
         <mxCell id="c1Ox-23KR0TA84bPEa5O-4" value="图像归一化处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="368" y="307" width="37" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="c1Ox-23KR0TA84bPEa5O-5" value="用户信息模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="c1Ox-23KR0TA84bPEa5O-5" value="特征提取模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="450" y="307" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-6" value="诊断记录模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
@@ -57,7 +57,7 @@
         <mxCell id="c1Ox-23KR0TA84bPEa5O-7" value="病灶标注显示" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="572" y="307" width="37" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="c1Ox-23KR0TA84bPEa5O-8" value="诊断记录模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="c1Ox-23KR0TA84bPEa5O-8" value="诊断报告生成" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="630" y="307" width="37" height="94" as="geometry" />
         </mxCell>
       </root>

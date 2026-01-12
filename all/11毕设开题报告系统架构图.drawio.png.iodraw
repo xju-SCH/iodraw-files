@@ -46,7 +46,7 @@
           <mxGeometry x="293" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-4" value="窗宽窗位归一化" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="336" y="309" width="37" height="94" as="geometry" />
+          <mxGeometry x="334" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-5" value="特征提取" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="436" y="309" width="37" height="94" as="geometry" />

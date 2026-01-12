@@ -49,10 +49,10 @@
           <mxGeometry x="350.95" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-5" value="特征提取模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="449" y="311" width="37" height="94" as="geometry" />
+          <mxGeometry x="447" y="311" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-6" value="特征增强模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="491.33" y="311" width="37" height="94" as="geometry" />
+          <mxGeometry x="489.33" y="311" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-7" value="病灶标注显示" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="581" y="311" width="37" height="94" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAS7guMx4zeAb3Tq3w6q-7" value="特征增强模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="501.33" y="321" width="37" height="94" as="geometry" />
+          <mxGeometry x="530" y="309" width="37" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

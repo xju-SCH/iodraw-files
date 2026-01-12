@@ -43,7 +43,7 @@
           <mxGeometry x="201" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-3" value="&lt;p data-end=&quot;791&quot; data-start=&quot;780&quot;&gt;&lt;span data-end=&quot;791&quot; data-start=&quot;780&quot;&gt;噪声抑制与增强&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="312" y="309" width="37" height="94" as="geometry" />
+          <mxGeometry x="310" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-4" value="图像归一化处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="350.95" y="309" width="37" height="94" as="geometry" />

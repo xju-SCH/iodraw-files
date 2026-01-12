@@ -102,7 +102,7 @@
         <mxCell id="NAS7guMx4zeAb3Tq3w6q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iNggaVOu61Ulj2DObTOb-6" target="NAS7guMx4zeAb3Tq3w6q-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NAS7guMx4zeAb3Tq3w6q-9" value="结果导出" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
+        <mxCell id="NAS7guMx4zeAb3Tq3w6q-9" value="历史记录查询" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="685" y="307" width="37" height="94" as="geometry" />
         </mxCell>
       </root>

@@ -20,7 +20,7 @@
           <mxGeometry x="413.04150197628456" width="97.9584980237154" height="40.39525691699605" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-5" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
-          <mxGeometry x="150.47233201581028" width="97.9584980237154" height="40.4" as="geometry" />
+          <mxGeometry x="146.47233201581028" width="97.9584980237154" height="40.4" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;curved=0;strokeWidth=1;" parent="iNggaVOu61Ulj2DObTOb-7" source="iNggaVOu61Ulj2DObTOb-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -43,10 +43,10 @@
           <mxGeometry x="198" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-3" value="肺结节影像导入" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="310" y="309" width="37" height="94" as="geometry" />
+          <mxGeometry x="306" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-4" value="窗宽窗位归一化" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="350.95" y="309" width="37" height="94" as="geometry" />
+          <mxGeometry x="346.95" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-5" value="特征提取模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="447" y="311" width="37" height="94" as="geometry" />
@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAS7guMx4zeAb3Tq3w6q-5" value="去噪增强重采样" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="395" y="309" width="37" height="94" as="geometry" />
+          <mxGeometry x="391" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="NAS7guMx4zeAb3Tq3w6q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iNggaVOu61Ulj2DObTOb-5" target="NAS7guMx4zeAb3Tq3w6q-5">
           <mxGeometry relative="1" as="geometry" />

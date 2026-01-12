@@ -13,7 +13,7 @@
         <mxCell id="iNggaVOu61Ulj2DObTOb-7" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="170" y="239" width="506" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iNggaVOu61Ulj2DObTOb-2" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
+        <mxCell id="iNggaVOu61Ulj2DObTOb-2" value="系统管理与日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
           <mxGeometry width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-4" value="前端可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">

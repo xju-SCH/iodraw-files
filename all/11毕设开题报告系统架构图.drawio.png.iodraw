@@ -11,24 +11,24 @@
           <mxGeometry x="330" y="136" width="208" height="55" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-7" value="" style="group;aspect=fixed;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="170" y="239" width="70" height="5.53" as="geometry" />
+          <mxGeometry x="170" y="239" width="511" height="40.4" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-2" value="系统管理与日志" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
-          <mxGeometry width="13.41897233201581" height="5.53" as="geometry" />
+          <mxGeometry width="97.9584980237154" height="40.4" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-4" value="结果可视化与导出" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
-          <mxGeometry x="56.581027667984195" width="9.6775" height="3.9912775000000003" as="geometry" />
+          <mxGeometry x="413.04150197628456" width="97.9584980237154" height="40.39525691699605" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-5" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
-          <mxGeometry x="20.612648221343875" width="13.41897233201581" height="5.53" as="geometry" />
+          <mxGeometry x="150.47233201581028" width="97.9584980237154" height="40.4" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;curved=0;strokeWidth=1;" parent="iNggaVOu61Ulj2DObTOb-7" source="iNggaVOu61Ulj2DObTOb-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="36.42951392373549" y="-6.636002109527588" as="targetPoint" />
+            <mxPoint x="265.93545164326906" y="-48.480015411376954" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-6" value="智能检测&lt;div&gt;（改进yolov12)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
-          <mxGeometry x="39.841897233201585" width="13.41897233201581" height="5.53" as="geometry" />
+          <mxGeometry x="290.8458498023715" width="97.9584980237154" height="40.4" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=0;strokeWidth=1;" parent="1" source="iNggaVOu61Ulj2DObTOb-4" target="iNggaVOu61Ulj2DObTOb-1" edge="1">
           <mxGeometry relative="1" as="geometry" />

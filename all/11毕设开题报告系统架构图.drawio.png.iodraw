@@ -40,7 +40,7 @@
           <mxGeometry x="155" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-2" value="检测记录管理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="198" y="309" width="37" height="94" as="geometry" />
+          <mxGeometry x="197" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-3" value="肺结节影像导入" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="304" y="309" width="37" height="94" as="geometry" />

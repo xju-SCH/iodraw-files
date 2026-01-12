@@ -37,16 +37,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-1" value="用户与权限控制" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="158" y="311" width="37" height="94" as="geometry" />
+          <mxGeometry x="158" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-2" value="检测记录管理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="201" y="311" width="37" height="94" as="geometry" />
+          <mxGeometry x="201" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-3" value="&lt;p data-end=&quot;791&quot; data-start=&quot;780&quot;&gt;&lt;span data-end=&quot;791&quot; data-start=&quot;780&quot;&gt;噪声抑制与增强&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="312" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-4" value="图像归一化处理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="353" y="311" width="37" height="94" as="geometry" />
+          <mxGeometry x="350.95" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="c1Ox-23KR0TA84bPEa5O-5" value="特征提取模块" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="459" y="311" width="37" height="94" as="geometry" />
@@ -85,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAS7guMx4zeAb3Tq3w6q-2" value="系统日志审查" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="241" y="311" width="37" height="94" as="geometry" />
+          <mxGeometry x="241" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="NAS7guMx4zeAb3Tq3w6q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iNggaVOu61Ulj2DObTOb-2" target="NAS7guMx4zeAb3Tq3w6q-2">
           <mxGeometry relative="1" as="geometry" />

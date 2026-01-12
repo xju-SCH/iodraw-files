@@ -19,7 +19,7 @@
         <mxCell id="iNggaVOu61Ulj2DObTOb-4" value="前端可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
           <mxGeometry x="409" width="97" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iNggaVOu61Ulj2DObTOb-5" value="数据预处理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
+        <mxCell id="iNggaVOu61Ulj2DObTOb-5" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
           <mxGeometry x="149" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;curved=0;strokeWidth=1;" parent="iNggaVOu61Ulj2DObTOb-7" source="iNggaVOu61Ulj2DObTOb-6" edge="1">
@@ -27,7 +27,7 @@
             <mxPoint x="263.3333435058594" y="-48.00001525878906" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iNggaVOu61Ulj2DObTOb-6" value="智能检测模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
+        <mxCell id="iNggaVOu61Ulj2DObTOb-6" value="智能检测&lt;div&gt;（改进yolov12)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="iNggaVOu61Ulj2DObTOb-7" vertex="1">
           <mxGeometry x="288" width="97" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iNggaVOu61Ulj2DObTOb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=0;strokeWidth=1;" parent="1" source="iNggaVOu61Ulj2DObTOb-4" target="iNggaVOu61Ulj2DObTOb-1" edge="1">

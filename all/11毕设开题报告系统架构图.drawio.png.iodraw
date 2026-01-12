@@ -91,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NAS7guMx4zeAb3Tq3w6q-5" value="去噪增强重采样" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="392" y="309" width="37" height="94" as="geometry" />
+          <mxGeometry x="390" y="309" width="37" height="94" as="geometry" />
         </mxCell>
         <mxCell id="NAS7guMx4zeAb3Tq3w6q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iNggaVOu61Ulj2DObTOb-5" target="NAS7guMx4zeAb3Tq3w6q-5">
           <mxGeometry relative="1" as="geometry" />

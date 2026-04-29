@@ -480,6 +480,9 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-150" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Detect Head&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1135" y="154" width="145" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-151" value="NMS&lt;div&gt;(Non-Maximum Suppression)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="815" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

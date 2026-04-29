@@ -211,6 +211,12 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-62" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Neck (Feature Pyramid Neteork&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="644" y="160" width="300" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1052" y="534" as="sourcePoint" />
+            <mxPoint x="1102" y="484" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

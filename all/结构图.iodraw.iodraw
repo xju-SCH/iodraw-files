@@ -747,6 +747,9 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-5" value="Conv2d+&lt;div style=&quot;font-size: 21px;&quot;&gt;BatchNorm + SiLU&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontStyle=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="55.5" y="600.5" width="192" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-230" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;=&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="141" y="561" width="31" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -757,7 +757,7 @@
           <mxGeometry x="933" y="911" width="96" height="115" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-269" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Mamba&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;SSM&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(Intra-window)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="911" width="120" height="115" as="geometry" />
+          <mxGeometry x="1066" y="911" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-270" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Shifted&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Window&lt;/font&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;Mechanism&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1209" y="911" width="120" height="115" as="geometry" />
@@ -774,10 +774,10 @@
             <mxPoint x="1097" y="912" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-277" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="-L2bmht-8zTboc9u90Vn-267">
+        <mxCell id="-L2bmht-8zTboc9u90Vn-277" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039" y="978" as="sourcePoint" />
-            <mxPoint x="940" y="971" as="targetPoint" />
+            <mxPoint x="901" y="970.006211180124" as="sourcePoint" />
+            <mxPoint x="933" y="971" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

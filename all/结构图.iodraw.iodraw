@@ -112,8 +112,8 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-5" value="Conv2d+&lt;div style=&quot;font-size: 17px;&quot;&gt;BatchNorm + SiLU&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1" vertex="1" parent="-L2bmht-8zTboc9u90Vn-31">
           <mxGeometry x="18.5" y="45" width="159" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-32" value="Pre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="141" y="284" width="37" height="26" as="geometry" />
+        <mxCell id="-L2bmht-8zTboc9u90Vn-32" value="Pre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="139" y="283" width="44" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

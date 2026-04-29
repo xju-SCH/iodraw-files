@@ -308,6 +308,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="844" y="459" as="sourcePoint" />
+            <mxPoint x="894" y="409" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

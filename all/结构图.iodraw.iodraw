@@ -537,8 +537,8 @@
             <mxPoint x="149" y="924" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-171" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;D_C3k2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;fontColor=#000000;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="94.5" y="934" width="112" height="52" as="geometry" />
+        <mxCell id="-L2bmht-8zTboc9u90Vn-171" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;D_C3k2 or&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;fontColor=#000000;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="94.5" y="934" width="128" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-172" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-L2bmht-8zTboc9u90Vn-171" target="-L2bmht-8zTboc9u90Vn-171">
           <mxGeometry relative="1" as="geometry" />

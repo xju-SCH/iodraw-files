@@ -118,10 +118,10 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-33" value="Backbone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="393" y="166" width="89" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="-L2bmht-8zTboc9u90Vn-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-L2bmht-8zTboc9u90Vn-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="559" y="464" as="sourcePoint" />
-            <mxPoint x="609" y="414" as="targetPoint" />
+            <mxPoint x="377" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

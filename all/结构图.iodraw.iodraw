@@ -115,8 +115,8 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-32" value="Preprocessed&lt;div&gt;CT Images&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="155" y="292" width="123" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-33" value="Backbone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="393" y="185" width="89" height="31" as="geometry" />
+        <mxCell id="-L2bmht-8zTboc9u90Vn-33" value="Backbone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="387" y="184" width="103" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;strokeWidth=3;" edge="1" parent="1" source="-L2bmht-8zTboc9u90Vn-29" target="-L2bmht-8zTboc9u90Vn-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

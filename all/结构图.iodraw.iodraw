@@ -477,8 +477,8 @@
             <mxPoint x="76" y="29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-150" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1142" y="158" width="40" height="26" as="geometry" />
+        <mxCell id="-L2bmht-8zTboc9u90Vn-150" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Detect Head&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1099" y="154" width="128" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

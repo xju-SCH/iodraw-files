@@ -136,6 +136,9 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-38" value="Swin-Mamba&lt;div&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752" y="607" width="109" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-39" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="871" y="496.62" width="109" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -14,6 +14,9 @@
           <mxGeometry x="155" y="196" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="196" width="120" height="454" as="geometry" />
+        </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -538,7 +538,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-171" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;D_C3k2 or&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;fontColor=#000000;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="934" width="128" height="52" as="geometry" />
+          <mxGeometry x="85.5" y="934" width="128" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-172" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-L2bmht-8zTboc9u90Vn-171" target="-L2bmht-8zTboc9u90Vn-171">
           <mxGeometry relative="1" as="geometry" />
@@ -582,7 +582,7 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-185" value="out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="-L2bmht-8zTboc9u90Vn-183">
           <mxGeometry x="83" y="4" width="40" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-186" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-L2bmht-8zTboc9u90Vn-186" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="67" y="906" width="80" height="133" as="geometry" />
         </mxCell>
       </root>

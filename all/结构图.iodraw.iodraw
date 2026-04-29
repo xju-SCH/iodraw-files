@@ -396,6 +396,33 @@
             <mxPoint x="76" y="29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-129" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1241" y="509" width="149" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-130" value="" style="group" vertex="1" connectable="0" parent="-L2bmht-8zTboc9u90Vn-129">
+          <mxGeometry x="66" width="83" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-131" value="Class." style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="-L2bmht-8zTboc9u90Vn-130">
+          <mxGeometry y="6" width="83" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-132" value="Reg." style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="-L2bmht-8zTboc9u90Vn-130">
+          <mxGeometry y="61" width="83" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-133" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="-L2bmht-8zTboc9u90Vn-129">
+          <mxGeometry y="25" width="42" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-134" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="-L2bmht-8zTboc9u90Vn-129" source="-L2bmht-8zTboc9u90Vn-133" target="-L2bmht-8zTboc9u90Vn-131">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-24" y="322" as="sourcePoint" />
+            <mxPoint x="26" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-135" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="-L2bmht-8zTboc9u90Vn-129" source="-L2bmht-8zTboc9u90Vn-133" target="-L2bmht-8zTboc9u90Vn-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="52" y="29" as="sourcePoint" />
+            <mxPoint x="76" y="29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

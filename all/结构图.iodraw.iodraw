@@ -130,7 +130,7 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-36" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="740" y="491" width="132" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-37" value="A2C2f" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-L2bmht-8zTboc9u90Vn-37" value="A2C2f" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="745" y="548.5" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-38" value="Swin-Mamba&lt;div style=&quot;font-size: 19px;&quot;&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">

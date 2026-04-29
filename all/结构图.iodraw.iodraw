@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-L2bmht-8zTboc9u90Vn-160" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="748" width="715" height="414" as="geometry" />
+        </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-87" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="989" y="206" width="284" height="510" as="geometry" />
         </mxCell>
@@ -501,14 +504,11 @@
             <mxPoint x="1444" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-160" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="748" width="715" height="414" as="geometry" />
-        </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-161" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="849" y="773" width="734" height="327" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-162" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;D_C3K2 Block&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="207" y="753" width="170" height="30" as="geometry" />
+          <mxGeometry x="266" y="756" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-163" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;Swin-Mamba Block&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1092" y="788" width="248" height="30" as="geometry" />

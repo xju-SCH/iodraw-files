@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-L2bmht-8zTboc9u90Vn-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="573" y="206" width="432" height="510" as="geometry" />
+          <mxGeometry x="573" y="206" width="481" height="510" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="382" y="220" width="120" height="474" as="geometry" />
@@ -131,46 +131,46 @@
           <mxGeometry x="613" y="270" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-36" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="613" y="331" width="132" height="39" as="geometry" />
+          <mxGeometry x="613" y="334" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-37" value="A2C2f" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="613" y="392" width="132" height="39" as="geometry" />
+          <mxGeometry x="613" y="397" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-38" value="Swin-Mamba&lt;div style=&quot;font-size: 19px;&quot;&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="613" y="572" width="132" height="47" as="geometry" />
+          <mxGeometry x="613" y="584" width="132" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-39" value="DownSample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="817" y="288" width="132" height="39" as="geometry" />
+          <mxGeometry x="817" y="291" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-40" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;D_C3k2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="817" y="231" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-44" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="613" y="454" width="132" height="39" as="geometry" />
+          <mxGeometry x="613" y="461" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-45" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="613" y="515" width="132" height="39" as="geometry" />
+          <mxGeometry x="613" y="524" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-46" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="613" y="637" width="132" height="39" as="geometry" />
+          <mxGeometry x="613" y="651" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-47" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="817" y="344" width="132" height="39" as="geometry" />
+          <mxGeometry x="817" y="351" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-49" value="Swin-Mamba&lt;div style=&quot;font-size: 19px;&quot;&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="817" y="397" width="132" height="47" as="geometry" />
+          <mxGeometry x="817" y="407" width="132" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-50" value="DownSample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="817" y="458" width="132" height="39" as="geometry" />
+          <mxGeometry x="817" y="471" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-51" value="A2C2f" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="817" y="515" width="132" height="39" as="geometry" />
+          <mxGeometry x="817" y="531" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-52" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="817" y="571" width="132" height="39" as="geometry" />
+          <mxGeometry x="817" y="591" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-53" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;D_C3k2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="817" y="637" width="132" height="39" as="geometry" />
+          <mxGeometry x="817" y="651" width="132" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

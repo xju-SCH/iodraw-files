@@ -140,7 +140,7 @@
           <mxGeometry x="616" y="568" width="132" height="47" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-39" value="DownSample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="871" y="496.62" width="132" height="39" as="geometry" />
+          <mxGeometry x="817" y="292" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-40" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;D_C3k2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="817" y="231" width="132" height="39" as="geometry" />
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-46" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="613" y="637" width="132" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-47" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="623" y="280" width="132" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

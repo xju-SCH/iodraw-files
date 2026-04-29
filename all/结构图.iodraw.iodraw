@@ -451,13 +451,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-122" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1241" y="470" width="149" height="91" as="geometry" />
+          <mxGeometry x="1231" y="572" width="149" height="91" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-123" value="" style="group" vertex="1" connectable="0" parent="-L2bmht-8zTboc9u90Vn-122">
           <mxGeometry x="66" width="83" height="91" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-124" value="Class." style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="-L2bmht-8zTboc9u90Vn-123">
-          <mxGeometry width="83" height="39" as="geometry" />
+          <mxGeometry y="12.5" width="83" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-125" value="Reg." style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="-L2bmht-8zTboc9u90Vn-123">
           <mxGeometry y="68" width="83" height="39" as="geometry" />

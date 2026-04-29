@@ -378,6 +378,9 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-95" value="Reg." style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="-L2bmht-8zTboc9u90Vn-96">
           <mxGeometry y="52" width="83" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="-L2bmht-8zTboc9u90Vn-97" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="475" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

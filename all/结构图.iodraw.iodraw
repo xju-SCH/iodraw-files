@@ -369,7 +369,7 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-92" value="P2&lt;div style=&quot;font-size: 19px;&quot;&gt;Head&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="1150" y="596.5" width="81" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-94" value="Class." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-L2bmht-8zTboc9u90Vn-94" value="Class." style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1294" y="240" width="120" height="39" as="geometry" />
         </mxCell>
       </root>

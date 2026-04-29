@@ -125,22 +125,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-35" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="730" y="433" width="132" height="36" as="geometry" />
+          <mxGeometry x="730" y="433" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-36" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="740" y="491" width="132" height="36" as="geometry" />
+          <mxGeometry x="740" y="491" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-37" value="A2C2f" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="745" y="548.5" width="132" height="36" as="geometry" />
+          <mxGeometry x="745" y="548.5" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-38" value="Swin-Mamba&lt;div style=&quot;font-size: 19px;&quot;&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="752" y="607" width="132" height="36" as="geometry" />
+          <mxGeometry x="752" y="607" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-39" value="DownSample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="871" y="496.62" width="132" height="36" as="geometry" />
+          <mxGeometry x="871" y="496.62" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-40" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;D_C3k2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="742" y="368" width="132" height="36" as="geometry" />
+          <mxGeometry x="742" y="368" width="132" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

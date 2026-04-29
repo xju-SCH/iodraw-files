@@ -751,7 +751,7 @@
           <mxGeometry x="860" y="920" width="101" height="95" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-268" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Window&lt;/font&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Parition&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1008" y="909" width="96" height="112" as="geometry" />
+          <mxGeometry x="971" y="909" width="96" height="112" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-269" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Mamba&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;SSM&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;(Intra-window)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1132" y="912" width="120" height="109" as="geometry" />

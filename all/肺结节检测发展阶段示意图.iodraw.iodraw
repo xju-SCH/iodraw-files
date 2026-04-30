@@ -82,7 +82,7 @@
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="753" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-28" value="肺实质分割" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-28" value="SVM/Random Forest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="100" y="753" width="129" height="30" as="geometry" />
         </mxCell>
       </root>

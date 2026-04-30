@@ -49,41 +49,41 @@
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-16" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;传统 CAD 方法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1378" y="340" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="81" y="585" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-18" value="肺实质分割" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-18" value="肺实质分割" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="101" y="585" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="621" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-20" value="阈值筛选" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-20" value="阈值筛选" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="100" y="621" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-21" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-21" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="79" y="659" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-22" value="区域生长" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-22" value="区域生长" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="99" y="659" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-23" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-23" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="78" y="691" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-24" value="形态学处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-24" value="形态学处理" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="98" y="691" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-25" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-25" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="79" y="722" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-26" value="人工特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-26" value="人工特征" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="99" y="722" width="129" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="753" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-28" value="SVM/Random Forest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="100" y="753" width="129" height="30" as="geometry" />
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-28" value="SVM/Random Forest" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="100" y="753" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

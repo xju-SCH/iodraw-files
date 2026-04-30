@@ -44,7 +44,7 @@
           <mxGeometry x="545" y="341" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-15" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;通用目标检测&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;框架迁移&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="959" y="341" width="230" height="30" as="geometry" />
+          <mxGeometry x="955" y="341" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-16" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;医学小目标&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;结构改进&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="1374" y="341" width="230" height="30" as="geometry" />

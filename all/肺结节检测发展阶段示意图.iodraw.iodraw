@@ -170,10 +170,10 @@
           <mxGeometry x="1340" y="678" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-59" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1321" y="709" width="20" height="20" as="geometry" />
+          <mxGeometry x="1321" y="736" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-60" value="多尺度融合" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1341" y="709" width="129" height="30" as="geometry" />
+          <mxGeometry x="1341" y="736" width="129" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

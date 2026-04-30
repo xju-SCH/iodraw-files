@@ -100,7 +100,7 @@
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-33" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="491" y="646" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-34" value="区域生长" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-34" value="3D CNN" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="511" y="646" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-35" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">

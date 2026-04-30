@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="H9QAKWeUUzm6lVDFtXJ9">
-    <mxGraphModel dx="1722" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1473" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,19 +59,19 @@
           <mxGeometry x="1364" y="341" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="88" y="576" width="20" height="20" as="geometry" />
+          <mxGeometry x="85" y="576" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-18" value="肺实质分割" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="108" y="571" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="87" y="608" width="20" height="20" as="geometry" />
+          <mxGeometry x="85" y="608" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-20" value="阈值筛选" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="107" y="608" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-21" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="86" y="646" width="20" height="20" as="geometry" />
+          <mxGeometry x="85" y="646" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-22" value="区域生长" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="106" y="646" width="129" height="30" as="geometry" />
@@ -83,13 +83,13 @@
           <mxGeometry x="105" y="678" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-25" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="86" y="709" width="20" height="20" as="geometry" />
+          <mxGeometry x="85" y="709" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-26" value="人工特征" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="106" y="709" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="87" y="746" width="20" height="20" as="geometry" />
+          <mxGeometry x="85" y="746" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-28" value="SVM/Random Forest" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="107" y="741" width="220" height="30" as="geometry" />

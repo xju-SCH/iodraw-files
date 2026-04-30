@@ -56,10 +56,16 @@
           <mxGeometry x="101" y="585" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="621" width="20" height="20" as="geometry" />
+          <mxGeometry x="80" y="621" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-20" value="肺实质分割" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="110" y="621" width="129" height="30" as="geometry" />
+          <mxGeometry x="100" y="621" width="129" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-21" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="659" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-22" value="肺实质分割" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="99" y="659" width="129" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

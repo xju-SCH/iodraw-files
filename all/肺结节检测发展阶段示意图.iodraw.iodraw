@@ -26,16 +26,16 @@
           <mxGeometry x="1297" y="310" width="320" height="480" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3069a0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="87" y="330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#268084;" vertex="1" parent="1">
-          <mxGeometry x="500" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#c84b47;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="1327" y="330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ZzDjJWZ3w8E_ackG5Mr-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e99640;" vertex="1" parent="1">
-          <mxGeometry x="910" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="914" y="330" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

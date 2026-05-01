@@ -178,10 +178,10 @@
         <mxCell id="vDlZNU5JrDqjthLzlAPm-55" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;3. 双分支融合：兼顾局部细节与全局语义&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1090" y="390" width="530" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-68" value="特征融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-68" value="特征融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fcaf90;" vertex="1" parent="1">
           <mxGeometry x="1170" y="508" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-69" value="增强后的&lt;div&gt;肺结节特征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-69" value="增强后的&lt;div&gt;肺结节特征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fcaf90;" vertex="1" parent="1">
           <mxGeometry x="1390" y="492" width="170" height="93" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vDlZNU5JrDqjthLzlAPm-68" target="vDlZNU5JrDqjthLzlAPm-69">

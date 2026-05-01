@@ -220,8 +220,8 @@
             <mxPoint x="580" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-QFUPz5vsTFZWCYUbOo-54" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1040" width="400" height="80" as="geometry" />
+        <mxCell id="m-QFUPz5vsTFZWCYUbOo-54" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="180" y="992" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

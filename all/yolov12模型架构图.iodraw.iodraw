@@ -334,6 +334,9 @@
             <mxPoint x="1335" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m-QFUPz5vsTFZWCYUbOo-86" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="430" width="90" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

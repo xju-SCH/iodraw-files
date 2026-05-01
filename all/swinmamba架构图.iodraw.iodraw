@@ -31,13 +31,13 @@
         <mxCell id="vDlZNU5JrDqjthLzlAPm-9" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 33px;&quot;&gt;局部纹理特征/&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 33px;&quot;&gt;结节边缘信息&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="96" y="668" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-10" value="窗口划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-10" value="窗口划分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="750" y="224" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-11" value="局部区域交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-11" value="局部区域交互" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="750" y="300" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-12" value="边缘细节增强" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-12" value="边缘细节增强" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="750" y="380" width="230" height="60" as="geometry" />
         </mxCell>
       </root>

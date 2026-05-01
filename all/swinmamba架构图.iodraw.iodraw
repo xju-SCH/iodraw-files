@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="LJt2hC9GlLI7azBznX30">
-    <mxGraphModel dx="1290" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="623" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,27 @@
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;1、局部窗口建模：保留细粒度边缘与纹理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vDlZNU5JrDqjthLzlAPm-16">
           <mxGeometry x="9" width="540" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-50" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="vDlZNU5JrDqjthLzlAPm-16">
+          <mxGeometry x="233" y="87.57" width="80" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="vDlZNU5JrDqjthLzlAPm-16" source="vDlZNU5JrDqjthLzlAPm-50" target="vDlZNU5JrDqjthLzlAPm-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213" y="158.57" as="sourcePoint" />
+            <mxPoint x="337" y="87.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.518;exitY=0.512;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="vDlZNU5JrDqjthLzlAPm-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274.44000000000005" y="191.0660000000001" as="sourcePoint" />
+            <mxPoint x="337" y="191.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="vDlZNU5JrDqjthLzlAPm-16" source="vDlZNU5JrDqjthLzlAPm-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323" y="94.57" as="sourcePoint" />
+            <mxPoint x="337" y="295.57" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-17" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460" y="585" width="570" height="376" as="geometry" />
@@ -153,27 +174,6 @@
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-49" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Mamba State Space&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vDlZNU5JrDqjthLzlAPm-17">
           <mxGeometry x="10" y="246" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-50" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="649" width="80" height="208" as="geometry" />
-        </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="vDlZNU5JrDqjthLzlAPm-50">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="720" as="sourcePoint" />
-            <mxPoint x="784" y="649" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.518;exitY=0.512;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="721.44" y="752.4960000000001" as="sourcePoint" />
-            <mxPoint x="784" y="753" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="vDlZNU5JrDqjthLzlAPm-50">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="656" as="sourcePoint" />
-            <mxPoint x="784" y="857" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -181,8 +181,8 @@
         <mxCell id="vDlZNU5JrDqjthLzlAPm-68" value="特征融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1170" y="506" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-69" value="特征融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1180" y="516" width="150" height="60" as="geometry" />
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-69" value="增强后的肺结节特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1390" y="508.5" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

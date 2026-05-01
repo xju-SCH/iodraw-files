@@ -109,12 +109,6 @@
         <mxCell id="-L2bmht-8zTboc9u90Vn-33" value="Backbone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="292" y="-120" width="147" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;strokeWidth=3;fontSize=21;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="248" y="391.80821917808225" as="sourcePoint" />
-            <mxPoint x="297" y="391" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Kwbi0X0d028QBj4uJJrg-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="-L2bmht-8zTboc9u90Vn-35" target="Kwbi0X0d028QBj4uJJrg-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>

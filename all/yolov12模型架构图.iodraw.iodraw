@@ -41,10 +41,10 @@
           <mxGeometry x="390" y="745" width="117" height="52" as="geometry" />
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-13" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="490" y="450" width="117" height="52" as="geometry" />
+          <mxGeometry x="390" y="550" width="117" height="52" as="geometry" />
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-14" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="390" y="540" width="117" height="52" as="geometry" />
+          <mxGeometry x="290" y="422" width="117" height="52" as="geometry" />
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-16" value="C3k2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="630" y="824" width="117" height="52" as="geometry" />

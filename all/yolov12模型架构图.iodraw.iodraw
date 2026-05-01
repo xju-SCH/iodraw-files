@@ -305,10 +305,10 @@
           <mxGeometry x="1142" y="110" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-78" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;2. C3k2&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1142" y="352" width="200" height="40" as="geometry" />
+          <mxGeometry x="1142" y="294" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-79" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;3. A2c2f&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="595" width="210" height="40" as="geometry" />
+          <mxGeometry x="1143" y="562" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-80" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;4. ABlock&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1142" y="837" width="220" height="40" as="geometry" />

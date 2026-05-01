@@ -44,7 +44,10 @@
           <mxGeometry x="481" y="422" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;1、局部窗口建模：保留细粒度边缘与纹理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="486" y="116" width="540" height="50" as="geometry" />
+          <mxGeometry x="479" y="116" width="540" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-15" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;1、局部窗口建模：保留细粒度边缘与纹理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="640" width="540" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

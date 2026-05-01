@@ -701,16 +701,16 @@
           <mxGeometry x="732" y="262" width="132" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Kwbi0X0d028QBj4uJJrg-11" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;fontStyle=1;strokeColor=#10739e;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="732" y="335" width="89" height="32" as="geometry" />
+          <mxGeometry x="732" y="335" width="132" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Kwbi0X0d028QBj4uJJrg-14" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;fontStyle=1;strokeColor=#10739e;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="732" y="127" width="89" height="32" as="geometry" />
+          <mxGeometry x="732" y="127" width="132" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Kwbi0X0d028QBj4uJJrg-15" value="Swin-Mamba&lt;div style=&quot;font-size: 21px;&quot;&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="732" y="464" width="132" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Kwbi0X0d028QBj4uJJrg-16" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;fontStyle=1;strokeColor=#10739e;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="732" y="542" width="89" height="32" as="geometry" />
+          <mxGeometry x="732" y="542" width="132" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Kwbi0X0d028QBj4uJJrg-17" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="732" y="608" width="132" height="39" as="geometry" />

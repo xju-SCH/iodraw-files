@@ -788,7 +788,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kwbi0X0d028QBj4uJJrg-50" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="727" y="463" width="10" height="160" as="geometry" />
+          <mxGeometry x="727" y="585" width="10" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

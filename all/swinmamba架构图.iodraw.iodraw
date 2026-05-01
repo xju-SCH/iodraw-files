@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vDlZNU5JrDqjthLzlAPm-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde5d8;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="444" width="470" height="180" as="geometry" />
+          <mxGeometry x="1118" y="444" width="470" height="180" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-19" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="70" y="283.5" width="290" height="510" as="geometry" />
@@ -43,10 +43,10 @@
         <mxCell id="vDlZNU5JrDqjthLzlAPm-23" value="" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="1030" y="336" width="70" height="393" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="vDlZNU5JrDqjthLzlAPm-23" target="vDlZNU5JrDqjthLzlAPm-68">
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" edge="1" parent="1" target="vDlZNU5JrDqjthLzlAPm-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100" y="526.5" as="sourcePoint" />
-            <mxPoint x="650" y="544" as="targetPoint" />
+            <mxPoint x="1088" y="532.5000000000002" as="sourcePoint" />
+            <mxPoint x="638" y="544" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-16" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -176,18 +176,18 @@
           <mxGeometry x="10" y="246" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-55" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;3. 双分支融合：兼顾局部细节与全局语义&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="384" width="530" height="50" as="geometry" />
+          <mxGeometry x="1078" y="384" width="530" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-68" value="特征融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fcaf90;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="502" width="150" height="60" as="geometry" />
+          <mxGeometry x="1158" y="502" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-69" value="增强后的&lt;div&gt;肺结节特征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;fillColor=#fcaf90;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="486" width="170" height="93" as="geometry" />
+          <mxGeometry x="1378" y="486" width="170" height="93" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vDlZNU5JrDqjthLzlAPm-68" target="vDlZNU5JrDqjthLzlAPm-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1320" y="534" as="sourcePoint" />
-            <mxPoint x="1180" y="542" as="targetPoint" />
+            <mxPoint x="1308" y="534" as="sourcePoint" />
+            <mxPoint x="1168" y="542" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -77,9 +77,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-23" value="" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="320" width="70" height="430" as="geometry" />
+          <mxGeometry x="1030" y="322" width="70" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="vDlZNU5JrDqjthLzlAPm-23" target="vDlZNU5JrDqjthLzlAPm-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="600" as="sourcePoint" />
             <mxPoint x="650" y="550" as="targetPoint" />

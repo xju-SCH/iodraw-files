@@ -127,7 +127,7 @@
             <mxPoint x="297" y="409" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kwbi0X0d028QBj4uJJrg-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-L2bmht-8zTboc9u90Vn-35" target="Kwbi0X0d028QBj4uJJrg-8">
+        <mxCell id="Kwbi0X0d028QBj4uJJrg-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="-L2bmht-8zTboc9u90Vn-35" target="Kwbi0X0d028QBj4uJJrg-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-35" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#E6E6E6;" parent="1" vertex="1">

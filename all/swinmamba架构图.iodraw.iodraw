@@ -176,7 +176,7 @@
           <mxGeometry x="10" y="246" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-55" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;3. 双分支融合：兼顾局部细节与全局语义&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="651" width="530" height="50" as="geometry" />
+          <mxGeometry x="1090" y="390" width="530" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-68" value="特征融合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1170" y="508" width="150" height="60" as="geometry" />

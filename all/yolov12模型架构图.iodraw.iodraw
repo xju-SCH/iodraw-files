@@ -64,13 +64,13 @@
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-21" value="A2C2f" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m-QFUPz5vsTFZWCYUbOo-23" value="P3 Detect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="m-QFUPz5vsTFZWCYUbOo-23" value="P3 Detect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="790" y="380" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="m-QFUPz5vsTFZWCYUbOo-24" value="P3 Detect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="m-QFUPz5vsTFZWCYUbOo-24" value="P3 Detect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="790" y="500" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="m-QFUPz5vsTFZWCYUbOo-25" value="P3 Detect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="m-QFUPz5vsTFZWCYUbOo-25" value="P3 Detect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="790" y="690" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-26" value="Detect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1" vertex="1" parent="1">

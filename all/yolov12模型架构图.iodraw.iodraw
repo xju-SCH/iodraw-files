@@ -402,7 +402,7 @@
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-106" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" target="m-QFUPz5vsTFZWCYUbOo-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1210" y="730" as="sourcePoint" />
+            <mxPoint x="1210" y="729" as="sourcePoint" />
             <mxPoint x="1290" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>

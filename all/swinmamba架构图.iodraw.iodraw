@@ -152,7 +152,7 @@
           <mxGeometry x="46" y="22" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-49" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Mamba State Space&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vDlZNU5JrDqjthLzlAPm-17">
-          <mxGeometry y="242" width="240" height="40" as="geometry" />
+          <mxGeometry x="10" y="246" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

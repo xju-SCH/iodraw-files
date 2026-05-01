@@ -34,10 +34,10 @@
         <mxCell id="vDlZNU5JrDqjthLzlAPm-10" value="窗口划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="224" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-11" value="窗口划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-11" value="局部区域交互" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="300" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-12" value="窗口划分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-12" value="边缘细节增强" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="380" width="230" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -7,9 +7,6 @@
         <mxCell id="vDlZNU5JrDqjthLzlAPm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3e6ea;" vertex="1" parent="1">
           <mxGeometry x="70" y="320" width="290" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbf2d6;" vertex="1" parent="1">
-          <mxGeometry x="460" y="585" width="570" height="315" as="geometry" />
-        </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde5d8;" vertex="1" parent="1">
           <mxGeometry x="1130" y="440" width="470" height="230" as="geometry" />
         </mxCell>
@@ -25,11 +22,8 @@
         <mxCell id="vDlZNU5JrDqjthLzlAPm-9" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 33px;&quot;&gt;局部纹理特征/&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 33px;&quot;&gt;结节边缘信息&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="96" y="668" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vDlZNU5JrDqjthLzlAPm-15" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;2. 长程依赖建模：增强跨区域上下文表达&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="484" y="911" width="530" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="470" y="116" width="570" height="369" as="geometry" />
+          <mxGeometry x="460" y="116" width="570" height="369" as="geometry" />
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcf9f0;" vertex="1" parent="vDlZNU5JrDqjthLzlAPm-16">
           <mxGeometry y="54" width="570" height="315" as="geometry" />
@@ -51,6 +45,15 @@
         </mxCell>
         <mxCell id="vDlZNU5JrDqjthLzlAPm-14" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;1、局部窗口建模：保留细粒度边缘与纹理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vDlZNU5JrDqjthLzlAPm-16">
           <mxGeometry x="9" width="540" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="585" width="570" height="376" as="geometry" />
+        </mxCell>
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbf2d6;" vertex="1" parent="vDlZNU5JrDqjthLzlAPm-17">
+          <mxGeometry width="570" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="vDlZNU5JrDqjthLzlAPm-15" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;2. 长程依赖建模：增强跨区域上下文表达&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vDlZNU5JrDqjthLzlAPm-17">
+          <mxGeometry x="24" y="326" width="530" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

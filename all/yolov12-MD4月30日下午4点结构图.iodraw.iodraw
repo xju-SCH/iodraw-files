@@ -787,8 +787,8 @@
             <mxPoint x="818" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kwbi0X0d028QBj4uJJrg-50" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="727" y="585" width="10" height="38" as="geometry" />
+        <mxCell id="Kwbi0X0d028QBj4uJJrg-50" value="" style="line;strokeWidth=3;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="643" width="10" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -244,7 +244,7 @@
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-61" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="398" y="290" width="352" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m-QFUPz5vsTFZWCYUbOo-62" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="m-QFUPz5vsTFZWCYUbOo-61" target="m-QFUPz5vsTFZWCYUbOo-23">
+        <mxCell id="m-QFUPz5vsTFZWCYUbOo-62" value="" style="endArrow=classicThin;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="m-QFUPz5vsTFZWCYUbOo-61" target="m-QFUPz5vsTFZWCYUbOo-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="390" as="sourcePoint" />
             <mxPoint x="550" y="340" as="targetPoint" />

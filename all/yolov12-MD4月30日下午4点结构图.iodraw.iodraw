@@ -709,7 +709,7 @@
         <mxCell id="Kwbi0X0d028QBj4uJJrg-20" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;D_C3k2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;fontColor=#000000;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="312" y="295" width="132" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Kwbi0X0d028QBj4uJJrg-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="Kwbi0X0d028QBj4uJJrg-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="-L2bmht-8zTboc9u90Vn-6" target="Kwbi0X0d028QBj4uJJrg-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="668" y="445" as="sourcePoint" />
             <mxPoint x="718" y="395" as="targetPoint" />

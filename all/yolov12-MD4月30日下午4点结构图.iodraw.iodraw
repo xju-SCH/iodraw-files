@@ -779,6 +779,12 @@
         <mxCell id="Kwbi0X0d028QBj4uJJrg-5" value="Swin-Mamba&lt;div style=&quot;font-size: 21px;&quot;&gt;Block&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="515" y="468" width="132" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="Kwbi0X0d028QBj4uJJrg-6" value="Upsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="400" width="132" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Kwbi0X0d028QBj4uJJrg-7" value="Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fontStyle=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="525" y="550" width="132" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -196,7 +196,7 @@
             <mxPoint x="490" y="456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=21;" parent="1" edge="1" source="-L2bmht-8zTboc9u90Vn-16">
+        <mxCell id="-L2bmht-8zTboc9u90Vn-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=21;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="-L2bmht-8zTboc9u90Vn-46" source="-L2bmht-8zTboc9u90Vn-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="418.67999999999984" y="572.51" as="sourcePoint" />
             <mxPoint x="490" y="573" as="targetPoint" />
@@ -210,9 +210,6 @@
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-60" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;P4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="426" y="419" width="44" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="-L2bmht-8zTboc9u90Vn-61" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;P5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="426" y="532" width="44" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-62" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b style=&quot;font-size: 28px;&quot;&gt;Neck (Feature Pyramid Network)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="473" y="100" width="449" height="46" as="geometry" />

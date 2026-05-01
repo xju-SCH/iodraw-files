@@ -314,7 +314,7 @@
           <mxGeometry x="1142" y="837" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-81" value="Conv2d" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="189" width="100" height="52" as="geometry" />
+          <mxGeometry x="1165" y="189" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m-QFUPz5vsTFZWCYUbOo-82" value="BatchNorm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1305" y="189" width="135" height="60" as="geometry" />

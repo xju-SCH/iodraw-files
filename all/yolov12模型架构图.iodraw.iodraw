@@ -385,6 +385,9 @@
             <mxPoint x="1260" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m-QFUPz5vsTFZWCYUbOo-102" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;×n&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="518" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

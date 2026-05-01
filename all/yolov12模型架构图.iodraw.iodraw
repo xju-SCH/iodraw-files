@@ -523,8 +523,8 @@
             <mxPoint x="1437" y="693" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m-QFUPz5vsTFZWCYUbOo-141" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;4. ABlock&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1152" y="759" width="220" height="40" as="geometry" />
+        <mxCell id="m-QFUPz5vsTFZWCYUbOo-141" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;5. ABlock&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;module&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1142" y="940" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

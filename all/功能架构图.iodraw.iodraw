@@ -16,6 +16,9 @@
         <mxCell id="J3gTuTpE8wUsdPYPfA1y-4" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;智能检测&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="340" width="170" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="J3gTuTpE8wUsdPYPfA1y-5" value="&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;结果可视化与导出&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="340" width="170" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

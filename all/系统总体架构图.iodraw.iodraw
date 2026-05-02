@@ -61,7 +61,7 @@
             <mxRectangle width="246" height="176" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qDZ1j509pnlL0H2STUAf-19" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;融合Gaussian-DCNv2与Swin-Mamba的肺结节智能检测系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qDZ1j509pnlL0H2STUAf-19" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;融合Gaussian-DCNv2与Swin-Mamba的肺结节智能检测系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="416" y="113" width="790" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-20" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;系统架构&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=none;" vertex="1" parent="1">

@@ -20,28 +20,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-7" value="登录/退出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="180" height="50" as="geometry" />
+          <mxGeometry x="260" y="290" width="178" height="50" as="geometry" />
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-8" value="患者档案查询与维护" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="350" width="180" height="50" as="geometry" />
+          <mxGeometry x="260" y="350" width="178" height="50" as="geometry" />
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-9" value="肺结节影像上传与检测" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="180" height="50" as="geometry" />
+          <mxGeometry x="260" y="410" width="178" height="50" as="geometry" />
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-11" value="查看检测结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="470" width="180" height="50" as="geometry" />
+          <mxGeometry x="260" y="470" width="178" height="50" as="geometry" />
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-12" value="查看检查历史" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="534.5" width="180" height="50" as="geometry" />
+          <mxGeometry x="260" y="534.5" width="178" height="50" as="geometry" />
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-13" value="查看统计分析" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="585" width="180" height="50" as="geometry" />
+          <mxGeometry x="260" y="585" width="178" height="50" as="geometry" />
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-14" value="删除患者档案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="660" width="180" height="50" as="geometry" />
+          <mxGeometry x="260" y="660" width="178" height="50" as="geometry" />
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-15" value="查看全量系统日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="720" width="180" height="50" as="geometry" />
+          <mxGeometry x="260" y="720" width="178" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

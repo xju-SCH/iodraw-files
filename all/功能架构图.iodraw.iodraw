@@ -26,7 +26,7 @@
           <mxGeometry x="429" y="431" width="50" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J3gTuTpE8wUsdPYPfA1y-12" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;特&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;征&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;提&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;取&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="506" y="431" width="50" height="200" as="geometry" />
+          <mxGeometry x="503" y="431" width="50" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J3gTuTpE8wUsdPYPfA1y-13" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;特&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;征&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;融&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;合&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="579" y="431" width="50" height="200" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="350" y="328" width="59" height="149" as="geometry" />
         </mxCell>
         <mxCell id="J3gTuTpE8wUsdPYPfA1y-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="360" y="338" width="59" height="149" as="geometry" />
+          <mxGeometry x="574.5" y="328.13" width="59" height="149" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

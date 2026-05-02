@@ -312,8 +312,8 @@
         <mxCell id="veQH1lj2WUGuPgRtM1c4-76" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;患者基础信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="431" y="216" width="108" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="veQH1lj2WUGuPgRtM1c4-77" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;患者基础信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="441" y="226" width="108" height="30" as="geometry" />
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-77" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;修改的患者信息&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="424" y="269" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

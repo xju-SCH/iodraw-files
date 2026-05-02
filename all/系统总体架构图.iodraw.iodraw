@@ -83,7 +83,7 @@
           <mxGeometry x="584" y="267" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-27" value="Vue + Vite&lt;div style=&quot;font-size: 17px;&quot;&gt;Element Plus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="439" y="390" width="100" height="50" as="geometry" />
+          <mxGeometry x="434.5" y="390" width="109" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-28" value="登录鉴权" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="439" y="506" width="100" height="50" as="geometry" />

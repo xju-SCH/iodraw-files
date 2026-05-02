@@ -170,7 +170,7 @@
           <mxGeometry width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-47" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="150" width="170" height="140" as="geometry" />
+          <mxGeometry x="100" y="150" width="170" height="149" as="geometry" />
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qDZ1j509pnlL0H2STUAf-6" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="860" height="521" as="geometry" />
+          <mxGeometry x="390" y="200" width="860" height="540" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;dashed=1;strokeWidth=2;" vertex="1" parent="qDZ1j509pnlL0H2STUAf-6">
           <mxGeometry width="860" height="194" as="geometry" />
@@ -44,21 +44,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;dashed=1;strokeWidth=2;" vertex="1" parent="qDZ1j509pnlL0H2STUAf-6">
-          <mxGeometry y="360" width="860" height="161" as="geometry" />
+          <mxGeometry y="360" width="860" height="180" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;dashed=1;strokeWidth=2;" vertex="1" parent="qDZ1j509pnlL0H2STUAf-15">
-          <mxGeometry width="239" height="161" as="geometry">
-            <mxRectangle width="239" height="161" as="alternateBounds" />
+          <mxGeometry width="239" height="180" as="geometry">
+            <mxRectangle width="239" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;dashed=1;strokeWidth=2;" vertex="1" parent="qDZ1j509pnlL0H2STUAf-15">
-          <mxGeometry x="239" width="334" height="161" as="geometry">
-            <mxRectangle width="334" height="161" as="alternateBounds" />
+          <mxGeometry x="239" width="334" height="180" as="geometry">
+            <mxRectangle width="334" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-18" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;dashed=1;strokeWidth=2;" vertex="1" parent="qDZ1j509pnlL0H2STUAf-15">
-          <mxGeometry x="573" width="287" height="161" as="geometry">
-            <mxRectangle width="287" height="161" as="alternateBounds" />
+          <mxGeometry x="573" width="287" height="180" as="geometry">
+            <mxRectangle width="287" height="180" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-19" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;融合Gaussian-DCNv2与Swin-Mamba的肺结节智能检测系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -86,10 +86,10 @@
           <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="586" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="656" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

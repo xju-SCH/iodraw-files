@@ -112,10 +112,10 @@
         <mxCell id="qDZ1j509pnlL0H2STUAf-36" value="用户数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1018" y="586" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qDZ1j509pnlL0H2STUAf-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qDZ1j509pnlL0H2STUAf-37" value="患者档案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1137" y="586" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qDZ1j509pnlL0H2STUAf-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qDZ1j509pnlL0H2STUAf-38" value="检测记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1018" y="665" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">

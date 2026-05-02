@@ -64,8 +64,8 @@
             <mxPoint x="1042" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="veQH1lj2WUGuPgRtM1c4-23" value="用户数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="358" width="70" height="30" as="geometry" />
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-23" value="用户数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1016" y="358" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -127,7 +127,7 @@
         <mxCell id="veQH1lj2WUGuPgRtM1c4-35" value="检测结果数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1033" y="460" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="veQH1lj2WUGuPgRtM1c4-36" value="D1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-36" value="D3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1008" y="460" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-37" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
@@ -157,7 +157,7 @@
         <mxCell id="veQH1lj2WUGuPgRtM1c4-41" value="检测结果数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1033" y="515" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="veQH1lj2WUGuPgRtM1c4-42" value="D1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-42" value="D4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1008" y="515" width="50" height="30" as="geometry" />
         </mxCell>
       </root>

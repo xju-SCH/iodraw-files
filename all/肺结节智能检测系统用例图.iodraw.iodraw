@@ -22,6 +22,12 @@
         <mxCell id="686HWS-jyowE8Qp60cpJ-7" value="登录/退出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="290" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="686HWS-jyowE8Qp60cpJ-8" value="患者档案查询与维护" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="350" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="686HWS-jyowE8Qp60cpJ-9" value="患者档案查询与维护" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

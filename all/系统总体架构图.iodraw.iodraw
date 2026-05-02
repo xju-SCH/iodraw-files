@@ -88,7 +88,7 @@
         <mxCell id="qDZ1j509pnlL0H2STUAf-28" value="登录鉴权" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="586" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qDZ1j509pnlL0H2STUAf-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qDZ1j509pnlL0H2STUAf-29" value="页面交互" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="656" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

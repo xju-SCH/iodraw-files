@@ -197,6 +197,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="330" as="sourcePoint" />
             <mxPoint x="290" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.627;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="301" as="sourcePoint" />
+            <mxPoint x="320" y="245" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="245" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

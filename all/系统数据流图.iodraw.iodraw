@@ -64,8 +64,8 @@
             <mxPoint x="1045" y="354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="veQH1lj2WUGuPgRtM1c4-23" value="检测结果数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1033" y="352" width="130" height="30" as="geometry" />
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-23" value="用户数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1053" y="352" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-24" value="D1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1008" y="352" width="50" height="30" as="geometry" />
@@ -94,8 +94,8 @@
             <mxPoint x="1045" y="412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="veQH1lj2WUGuPgRtM1c4-29" value="检测结果数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1033" y="410" width="130" height="30" as="geometry" />
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-29" value="患者档案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1053" y="410" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-30" value="D2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1008" y="410" width="50" height="30" as="geometry" />

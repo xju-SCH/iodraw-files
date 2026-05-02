@@ -145,7 +145,7 @@
         <mxCell id="qDZ1j509pnlL0H2STUAf-48" value="SQLite&lt;div&gt;业务读写&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="743" y="445" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qDZ1j509pnlL0H2STUAf-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qDZ1j509pnlL0H2STUAf-49" value="YOLOv12-MD&lt;div&gt;模型推理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="863" y="445" width="100" height="50" as="geometry" />
         </mxCell>
       </root>

@@ -1,11 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="iLApsg6vWUvechNHIVsK">
-    <mxGraphModel dx="1505" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-2" value="浅层高检率特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="95" y="313" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5X90pYJQ0P2DPzjAnf-V-3" value="边缘细节丰富" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="105" y="420" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

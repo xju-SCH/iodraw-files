@@ -130,13 +130,13 @@
         <mxCell id="qDZ1j509pnlL0H2STUAf-42" value="历史回看" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="665" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qDZ1j509pnlL0H2STUAf-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qDZ1j509pnlL0H2STUAf-43" value="统计分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="665" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-44" value="报告导出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="586" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qDZ1j509pnlL0H2STUAf-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qDZ1j509pnlL0H2STUAf-45" value="日志审计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="665" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-47" value="FastAPI&lt;div&gt;REST API&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">

@@ -97,38 +97,68 @@
         <mxCell id="veQH1lj2WUGuPgRtM1c4-29" value="检测结果数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1033" y="410" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="veQH1lj2WUGuPgRtM1c4-30" value="D1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-30" value="D2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1008" y="410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-31" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1030" y="422" as="sourcePoint" />
-            <mxPoint x="1160" y="422" as="targetPoint" />
+            <mxPoint x="1020" y="462" as="sourcePoint" />
+            <mxPoint x="1150" y="462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-32" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1030" y="448" as="sourcePoint" />
-            <mxPoint x="1160" y="448" as="targetPoint" />
+            <mxPoint x="1020" y="488" as="sourcePoint" />
+            <mxPoint x="1150" y="488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-33" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1030" y="448" as="sourcePoint" />
-            <mxPoint x="1030" y="422" as="targetPoint" />
+            <mxPoint x="1020" y="488" as="sourcePoint" />
+            <mxPoint x="1020" y="462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-34" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1055" y="448" as="sourcePoint" />
-            <mxPoint x="1055" y="422" as="targetPoint" />
+            <mxPoint x="1045" y="488" as="sourcePoint" />
+            <mxPoint x="1045" y="462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-35" value="检测结果数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1043" y="420" width="130" height="30" as="geometry" />
+          <mxGeometry x="1033" y="460" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="veQH1lj2WUGuPgRtM1c4-36" value="D1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1018" y="420" width="50" height="30" as="geometry" />
+          <mxGeometry x="1008" y="460" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-37" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="517" as="sourcePoint" />
+            <mxPoint x="1150" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-38" value="" style="endArrow=none;html=1;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="543" as="sourcePoint" />
+            <mxPoint x="1150" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-39" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="543" as="sourcePoint" />
+            <mxPoint x="1020" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-40" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1045" y="543" as="sourcePoint" />
+            <mxPoint x="1045" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-41" value="检测结果数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1033" y="515" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="veQH1lj2WUGuPgRtM1c4-42" value="D1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1008" y="515" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

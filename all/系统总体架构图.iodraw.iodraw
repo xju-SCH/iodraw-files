@@ -73,6 +73,9 @@
         <mxCell id="qDZ1j509pnlL0H2STUAf-22" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;核心模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="130" y="620" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="qDZ1j509pnlL0H2STUAf-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

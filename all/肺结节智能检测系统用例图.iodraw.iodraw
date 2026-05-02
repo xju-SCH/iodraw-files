@@ -37,7 +37,7 @@
         <mxCell id="686HWS-jyowE8Qp60cpJ-12" value="查看检查历史" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="536" width="178" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="686HWS-jyowE8Qp60cpJ-13" value="查看统计分析" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="686HWS-jyowE8Qp60cpJ-13" value="查看检测结果" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="597" width="178" height="47" as="geometry" />
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-14" value="删除患者档案" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">

@@ -80,7 +80,7 @@
           <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="290" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qDZ1j509pnlL0H2STUAf-27" value="Vue + Vite&lt;div&gt;Element Plus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="460" width="120" height="60" as="geometry" />

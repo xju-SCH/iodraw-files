@@ -1,22 +1,22 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="1290" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="150" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-6" value="患者档案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-6" value="患者档案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-7" value="检测框结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-7" value="检测框结果" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-8" value="检查记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-8" value="检查记录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-9" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-9" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

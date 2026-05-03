@@ -152,10 +152,10 @@
           <mxGeometry x="440" y="430" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-43" value="结节数量" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="490" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="440" y="502.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-44" value="记录ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="580" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="535" y="515" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-45" value="检查日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="80" height="50" as="geometry" />
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-48" value="检查日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="615" y="300" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-49" value="检查日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="650" y="515" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

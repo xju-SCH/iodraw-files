@@ -131,7 +131,7 @@
           <mxGeometry x="235" y="478" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-37" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;记录&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="460" width="60" height="55" as="geometry" />
+          <mxGeometry x="370" y="460" width="60" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ryGXGXcfvCplOl1IAvDW-5" target="ryGXGXcfvCplOl1IAvDW-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -146,16 +146,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-41" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="300" y="472.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="310" y="472.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-42" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="410" y="440" width="40" height="30" as="geometry" />
+          <mxGeometry x="440" y="430" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-43" value="结节数量" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="430" y="490" width="80" height="50" as="geometry" />
+          <mxGeometry x="490" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-44" value="记录ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="520" y="490" width="80" height="50" as="geometry" />
+          <mxGeometry x="580" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-45" value="检查日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="80" height="50" as="geometry" />

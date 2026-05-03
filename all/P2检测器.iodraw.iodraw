@@ -136,7 +136,7 @@
         <mxCell id="js-tAdWmdKIV_vqlxQHl-32" value="自顶向下融合路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="543" y="784" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-33" value="自顶向下融合路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-33" value="自底向上融合路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="543" y="460" width="230" height="40" as="geometry" />
         </mxCell>
       </root>

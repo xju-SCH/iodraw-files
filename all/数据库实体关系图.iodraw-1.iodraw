@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="903" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1642" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="182" y="520" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-6" value="患者档案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="639" y="310" width="110" height="50" as="geometry" />
+          <mxGeometry x="820" y="282.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-7" value="检测框结果" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="660" y="580" width="110" height="50" as="geometry" />
+          <mxGeometry x="841" y="552.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-8" value="检查记录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="110" height="50" as="geometry" />
@@ -157,7 +157,7 @@
         <mxCell id="ryGXGXcfvCplOl1IAvDW-44" value="记录ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="520" y="490" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-45" value="记录ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-45" value="检查日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="80" height="50" as="geometry" />
         </mxCell>
       </root>

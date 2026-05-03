@@ -61,7 +61,7 @@
             <mxPoint x="626" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-14" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="919" y="438" width="50" height="400" as="geometry" />
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="js-tAdWmdKIV_vqlxQHl-9" target="js-tAdWmdKIV_vqlxQHl-9">
@@ -79,7 +79,7 @@
             <mxPoint x="1036" y="454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="js-tAdWmdKIV_vqlxQHl-8">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;exitX=0.485;exitY=0.647;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="js-tAdWmdKIV_vqlxQHl-14" target="js-tAdWmdKIV_vqlxQHl-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="955" y="581" as="sourcePoint" />
             <mxPoint x="1036" y="581" as="targetPoint" />

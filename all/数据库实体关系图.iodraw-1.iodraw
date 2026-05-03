@@ -172,7 +172,7 @@
         <mxCell id="ryGXGXcfvCplOl1IAvDW-50" value="诊断状态" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="640" y="282.5" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-51" value="置信度" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-51" value="最大&lt;div&gt;置信度&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="680" y="390" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-52" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ryGXGXcfvCplOl1IAvDW-8" target="ryGXGXcfvCplOl1IAvDW-45">
@@ -304,7 +304,7 @@
             <mxPoint x="1060" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-80" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-80" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ryGXGXcfvCplOl1IAvDW-71" target="ryGXGXcfvCplOl1IAvDW-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="400" as="sourcePoint" />
             <mxPoint x="948" y="353" as="targetPoint" />

@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="iLApsg6vWUvechNHIVsK">
-    <mxGraphModel dx="1806" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="85" y="327" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-3" value="边缘细节丰富" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="105" y="850" width="180" height="40" as="geometry" />
+          <mxGeometry x="120" y="447" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-4" value="上采样路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="565" y="327" width="170" height="50" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="80" y="492" width="269.92" height="287" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-7" value="空间分辨率高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="105" y="800" width="180" height="40" as="geometry" />
+          <mxGeometry x="120" y="397" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-8" value="上采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="420" y="603.5" width="123" height="65" as="geometry" />

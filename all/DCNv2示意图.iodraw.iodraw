@@ -26,7 +26,7 @@
           <mxGeometry x="564" y="290" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I-wG-lRJiMF6j0McVk_3-10" value="偏移采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="500" y="440" width="111" height="60" as="geometry" />
+          <mxGeometry x="504" y="440" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-wG-lRJiMF6j0McVk_3-11" value="领域确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="660" y="440" width="111" height="60" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="800" y="440" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-wG-lRJiMF6j0McVk_3-13" value="特征聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="940" y="440" width="111" height="60" as="geometry" />
+          <mxGeometry x="924" y="440" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-wG-lRJiMF6j0McVk_3-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1100" y="258" width="349.59" height="550" as="geometry" />

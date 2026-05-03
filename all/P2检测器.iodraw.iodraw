@@ -131,7 +131,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="436" y="663" width="450" height="107" as="geometry" />
+          <mxGeometry x="430" y="517" width="450" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-32" value="空间分辨率高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="134.95999999999998" y="440" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

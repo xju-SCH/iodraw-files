@@ -272,10 +272,13 @@
           <mxGeometry x="970" y="375" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-72" value="坐标范围" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="835" y="210" width="80" height="50" as="geometry" />
+          <mxGeometry x="810" y="220" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-73" value="坐标范围" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="940" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-74" value="坐标范围" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="210" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

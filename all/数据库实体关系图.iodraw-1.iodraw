@@ -161,13 +161,13 @@
           <mxGeometry x="440" y="320" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-47" value="检查日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="535" y="300" width="80" height="50" as="geometry" />
+          <mxGeometry x="520" y="290" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-48" value="检查日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="615" y="300" width="80" height="50" as="geometry" />
+          <mxGeometry x="615" y="290" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-49" value="检查日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="650" y="515" width="80" height="50" as="geometry" />
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-49" value="结果图" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="620" y="508" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

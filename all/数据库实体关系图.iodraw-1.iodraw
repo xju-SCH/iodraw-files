@@ -317,7 +317,7 @@
           <mxGeometry x="806" y="660" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-83" value="年龄" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="906" y="660" width="80" height="50" as="geometry" />
+          <mxGeometry x="896" y="660" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-84" value="患者ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="834" y="462.5" width="80" height="50" as="geometry" />
@@ -326,7 +326,7 @@
           <mxGeometry x="940" y="465" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-86" value="身份证号" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="996" y="550" width="80" height="50" as="geometry" />
+          <mxGeometry x="996" y="553" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-87" value="地区" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="986" y="620" width="80" height="50" as="geometry" />

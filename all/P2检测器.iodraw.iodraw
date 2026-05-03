@@ -8,7 +8,7 @@
           <mxGeometry x="54.92" y="378" width="325.08" height="532" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-2" value="浅层高检率特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="311" width="230" height="50" as="geometry" />
+          <mxGeometry x="94" y="311" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-3" value="边缘细节丰富" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="120" y="447" width="180" height="40" as="geometry" />

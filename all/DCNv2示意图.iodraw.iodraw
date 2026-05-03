@@ -25,16 +25,16 @@
         <mxCell id="I-wG-lRJiMF6j0McVk_3-9" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Gaussian-DCNv2 插值增强&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="533" y="308" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I-wG-lRJiMF6j0McVk_3-10" value="偏移采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="I-wG-lRJiMF6j0McVk_3-10" value="偏移采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="473" y="417" width="111" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-wG-lRJiMF6j0McVk_3-11" value="领域确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="I-wG-lRJiMF6j0McVk_3-11" value="领域确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="613" y="417" width="111" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-wG-lRJiMF6j0McVk_3-12" value="高斯加权" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="I-wG-lRJiMF6j0McVk_3-12" value="高斯加权" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="753" y="417" width="111" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-wG-lRJiMF6j0McVk_3-13" value="特征聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="I-wG-lRJiMF6j0McVk_3-13" value="特征聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="893" y="417" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-wG-lRJiMF6j0McVk_3-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="I-wG-lRJiMF6j0McVk_3-16" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;增强后特征&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1159" y="308" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I-wG-lRJiMF6j0McVk_3-17" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;边界响应更清晰&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;形变对齐更准确&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;微小结节特征更稳定&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I-wG-lRJiMF6j0McVk_3-17" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;边界响应更清晰&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;形变对齐更准确&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;微小结节特征更稳定&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1119" y="389" width="260" height="230" as="geometry" />
         </mxCell>
         <mxCell id="I-wG-lRJiMF6j0McVk_3-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="I-wG-lRJiMF6j0McVk_3-10">
@@ -86,7 +86,7 @@
           <mxGeometry x="495" y="710" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="I-wG-lRJiMF6j0McVk_3-26" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;非整数采样点由&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;可学习高斯参数&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;自适应调整&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="754" y="696" width="200" height="100" as="geometry" />
+          <mxGeometry x="763" y="696" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

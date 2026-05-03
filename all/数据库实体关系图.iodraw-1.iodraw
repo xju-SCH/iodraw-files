@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-60" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;包含&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="320" width="60" height="55" as="geometry" />
+          <mxGeometry x="760" y="327.5" width="60" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-61" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;记录&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="497.5" width="60" height="55" as="geometry" />
@@ -260,7 +260,10 @@
           <mxGeometry x="830" y="520" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-68" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="840" y="530" width="40" height="30" as="geometry" />
+          <mxGeometry x="690" y="332.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-69" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="830" y="302.5" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

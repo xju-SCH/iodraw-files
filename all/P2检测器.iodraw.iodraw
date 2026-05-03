@@ -11,7 +11,7 @@
           <mxGeometry x="94" y="311" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-3" value="边缘细节丰富" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="124.96" y="824" width="180" height="40" as="geometry" />
+          <mxGeometry x="124.96" y="813" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-4" value="上采样路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="311" width="170" height="50" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="80" y="492" width="269.92" height="287" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-7" value="空间分辨率高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="124.96" y="436" width="180" height="40" as="geometry" />
+          <mxGeometry x="124.96" y="430" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-8" value="上采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="420" y="603.5" width="123" height="65" as="geometry" />

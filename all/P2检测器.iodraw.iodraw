@@ -139,6 +139,9 @@
         <mxCell id="js-tAdWmdKIV_vqlxQHl-33" value="自顶向下融合路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="543" y="460" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-34" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="876" y="454" width="69" height="380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

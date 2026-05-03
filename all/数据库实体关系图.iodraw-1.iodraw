@@ -319,7 +319,7 @@
         <mxCell id="ryGXGXcfvCplOl1IAvDW-83" value="置信度" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="940" y="660" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-84" value="置信度" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-84" value="患者ID" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="880" y="458" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-85" value="置信度" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">

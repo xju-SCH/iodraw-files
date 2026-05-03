@@ -8,13 +8,13 @@
           <mxGeometry x="180" y="520" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-6" value="患者档案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="160" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="630" y="310" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-7" value="检测框结果" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="580" y="440" width="110" height="50" as="geometry" />
+          <mxGeometry x="410" y="420" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-8" value="检查记录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="570" y="580" width="110" height="50" as="geometry" />
+          <mxGeometry x="620" y="510" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-9" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="110" height="50" as="geometry" />

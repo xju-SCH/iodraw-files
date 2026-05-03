@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="349.92" y="470" width="320.08" height="414" as="geometry" />
+        </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-2" value="浅层高检率特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="327" width="230" height="50" as="geometry" />
         </mxCell>
@@ -90,9 +93,6 @@
             <mxPoint x="969" y="838.9999999999998" as="sourcePoint" />
             <mxPoint x="1026" y="824.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

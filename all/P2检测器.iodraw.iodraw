@@ -31,8 +31,8 @@
         <mxCell id="js-tAdWmdKIV_vqlxQHl-2" value="整合卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="796" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-3" value="P2检测头&lt;div&gt;高分辨率、小目标检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-3" value="P2检测头&lt;div style=&quot;font-size: 25px;&quot;&gt;高分辨率、小目标检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="470" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-6" value="P2检测头" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1050" y="610" width="120" height="60" as="geometry" />

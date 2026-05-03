@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="150" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-6" value="患者档案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-6" value="患者档案" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-7" value="检测框结果" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-7" value="检测框结果" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-8" value="检查记录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-8" value="检查记录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-9" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-9" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

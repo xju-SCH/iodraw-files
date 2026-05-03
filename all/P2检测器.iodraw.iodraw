@@ -40,8 +40,8 @@
         <mxCell id="js-tAdWmdKIV_vqlxQHl-8" value="P3检测头&lt;div style=&quot;font-size: 25px;&quot;&gt;中等目标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1030" y="720" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-9" value="P3检测头&lt;div style=&quot;font-size: 25px;&quot;&gt;中等目标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="730" width="280" height="110" as="geometry" />
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-9" value="P5检测头&lt;div style=&quot;font-size: 25px;&quot;&gt;大目标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="870" width="280" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

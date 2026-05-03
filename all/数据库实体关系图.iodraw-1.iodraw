@@ -311,10 +311,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-81" value="姓名" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="736" y="610" width="80" height="50" as="geometry" />
+          <mxGeometry x="736" y="602.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-82" value="性别" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="806" y="660" width="80" height="50" as="geometry" />
+          <mxGeometry x="801" y="650" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-83" value="年龄" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="896" y="660" width="80" height="50" as="geometry" />
@@ -349,7 +349,7 @@
             <mxPoint x="856" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-91" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryGXGXcfvCplOl1IAvDW-6" target="ryGXGXcfvCplOl1IAvDW-87">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-91" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryGXGXcfvCplOl1IAvDW-6" target="ryGXGXcfvCplOl1IAvDW-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="939" y="613" as="sourcePoint" />
             <mxPoint x="956" y="670" as="targetPoint" />

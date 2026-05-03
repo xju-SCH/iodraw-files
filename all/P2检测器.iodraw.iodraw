@@ -106,13 +106,13 @@
         <mxCell id="js-tAdWmdKIV_vqlxQHl-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="920" y="380" width="410" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-24" value="下采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-24" value="下采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="442" y="670" width="102" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-25" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-25" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="602" y="670" width="102" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-26" value="整合卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-26" value="整合卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="756" y="670" width="102" height="65" as="geometry" />
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="js-tAdWmdKIV_vqlxQHl-24" target="js-tAdWmdKIV_vqlxQHl-25">

@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="920" y="380" width="410" height="530" as="geometry" />
+        </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="517" width="450" height="107" as="geometry" />
         </mxCell>
@@ -34,13 +37,13 @@
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-7" value="空间分辨率高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="124.96" y="430" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5X90pYJQ0P2DPzjAnf-V-8" value="上采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="5X90pYJQ0P2DPzjAnf-V-8" value="上采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="442" y="541.5" width="102" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-1" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-1" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="602" y="541.5" width="102" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-2" value="整合卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-2" value="整合卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="756" y="541.5" width="102" height="65" as="geometry" />
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-3" value="&lt;b&gt;P2检测头&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;高分辨率、小目标检测&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
@@ -103,16 +106,13 @@
             <mxPoint x="1026" y="824.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="920" y="380" width="410" height="530" as="geometry" />
-        </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-24" value="下采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-24" value="下采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeWidth=2;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="442" y="670" width="102" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-25" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-25" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeWidth=2;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="602" y="670" width="102" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-26" value="整合卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-26" value="整合卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#dae8fc;strokeWidth=2;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="756" y="670" width="102" height="65" as="geometry" />
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="js-tAdWmdKIV_vqlxQHl-24" target="js-tAdWmdKIV_vqlxQHl-25">

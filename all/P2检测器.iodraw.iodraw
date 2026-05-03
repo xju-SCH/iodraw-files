@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="iLApsg6vWUvechNHIVsK">
-    <mxGraphModel dx="1505" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="js-tAdWmdKIV_vqlxQHl-2" value="整合卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="796" y="603.5" width="123" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-3" value="P2检测头&lt;div style=&quot;font-size: 25px;&quot;&gt;高分辨率、小目标检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-3" value="P2检测头&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;高分辨率、小目标检测&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1030" y="410" width="276" height="93" as="geometry" />
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-7" value="P3检测头&lt;div style=&quot;font-size: 25px;&quot;&gt;中小目标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">

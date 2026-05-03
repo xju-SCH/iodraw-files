@@ -16,6 +16,9 @@
         <mxCell id="ryGXGXcfvCplOl1IAvDW-8" value="检查记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-9" value="系统日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

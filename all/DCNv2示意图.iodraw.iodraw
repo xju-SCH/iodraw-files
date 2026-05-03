@@ -25,16 +25,16 @@
         <mxCell id="I-wG-lRJiMF6j0McVk_3-9" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;Gaussian-DCNv2 插值增强&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="564" y="290" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I-wG-lRJiMF6j0McVk_3-10" value="偏移采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="I-wG-lRJiMF6j0McVk_3-10" value="偏移采样" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="504" y="440" width="111" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-wG-lRJiMF6j0McVk_3-11" value="领域确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="660" y="440" width="111" height="60" as="geometry" />
+        <mxCell id="I-wG-lRJiMF6j0McVk_3-11" value="领域确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="644" y="440" width="111" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-wG-lRJiMF6j0McVk_3-12" value="高斯加权" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="800" y="440" width="111" height="60" as="geometry" />
+        <mxCell id="I-wG-lRJiMF6j0McVk_3-12" value="高斯加权" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="784" y="440" width="111" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I-wG-lRJiMF6j0McVk_3-13" value="特征聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="I-wG-lRJiMF6j0McVk_3-13" value="特征聚合" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="924" y="440" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I-wG-lRJiMF6j0McVk_3-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">

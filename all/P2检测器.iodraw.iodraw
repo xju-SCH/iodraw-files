@@ -16,7 +16,7 @@
         <mxCell id="js-tAdWmdKIV_vqlxQHl-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="426" y="653" width="450" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="js-tAdWmdKIV_vqlxQHl-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;dashed=1;strokeWidth=3;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="54.92" y="378" width="325.08" height="532" as="geometry" />
         </mxCell>
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-2" value="浅层高检率特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1;" parent="1" vertex="1">

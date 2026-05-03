@@ -25,6 +25,12 @@
         <mxCell id="5X90pYJQ0P2DPzjAnf-V-8" value="上采样" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-1" value="特征拼接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js-tAdWmdKIV_vqlxQHl-2" value="上采样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

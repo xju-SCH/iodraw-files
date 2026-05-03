@@ -226,7 +226,7 @@
         <mxCell id="ryGXGXcfvCplOl1IAvDW-60" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;包含&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="327.5" width="60" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="ryGXGXcfvCplOl1IAvDW-61" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;记录&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ryGXGXcfvCplOl1IAvDW-61" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;拥有&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="497.5" width="60" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ryGXGXcfvCplOl1IAvDW-62" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ryGXGXcfvCplOl1IAvDW-8" target="ryGXGXcfvCplOl1IAvDW-60">

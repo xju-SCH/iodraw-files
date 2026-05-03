@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="iLApsg6vWUvechNHIVsK">
-    <mxGraphModel dx="2580" dy="1406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="602" y="603.5" width="123" height="65" as="geometry" />
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-2" value="整合卷积" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="780" y="603.5" width="123" height="65" as="geometry" />
+          <mxGeometry x="777" y="603.5" width="123" height="65" as="geometry" />
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-3" value="&lt;b&gt;P2检测头&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;高分辨率、小目标检测&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1026" y="400" width="259" height="87" as="geometry" />
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-14" value="" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="919" y="444" width="50" height="380" as="geometry" />
+          <mxGeometry x="900" y="444" width="69" height="380" as="geometry" />
         </mxCell>
         <mxCell id="js-tAdWmdKIV_vqlxQHl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="js-tAdWmdKIV_vqlxQHl-9" target="js-tAdWmdKIV_vqlxQHl-9">
           <mxGeometry relative="1" as="geometry" />

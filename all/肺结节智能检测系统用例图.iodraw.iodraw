@@ -7,10 +7,10 @@
         <mxCell id="686HWS-jyowE8Qp60cpJ-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeWidth=2;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="238" y="230" width="572" height="572" as="geometry" />
         </mxCell>
-        <mxCell id="686HWS-jyowE8Qp60cpJ-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;医生&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;aspect=fixed;fillColor=none;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="686HWS-jyowE8Qp60cpJ-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;医生&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;aspect=fixed;fillColor=none;fontStyle=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="100" y="413" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="686HWS-jyowE8Qp60cpJ-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span&gt;管理员&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;aspect=fixed;fillColor=none;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="686HWS-jyowE8Qp60cpJ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;管理员&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;aspect=fixed;fillColor=none;fontStyle=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="101.25" y="665" width="47.5" height="95" as="geometry" />
         </mxCell>
         <mxCell id="686HWS-jyowE8Qp60cpJ-7" value="登录/退出" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fontStyle=0;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
@@ -160,7 +160,7 @@
         <mxCell id="686HWS-jyowE8Qp60cpJ-46" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;whiteSpace=wrap;html=1;fontSize=17;fontStyle=0;rotation=9;" parent="1" vertex="1">
           <mxGeometry x="500" y="614" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="686HWS-jyowE8Qp60cpJ-48" value="" style="endArrow=block;html=1;rounded=0;endFill=0;strokeWidth=2;targetPerimeterSpacing=0;startSize=8;endSize=11;fontStyle=0" parent="1" edge="1">
+        <mxCell id="686HWS-jyowE8Qp60cpJ-48" value="" style="endArrow=block;html=1;rounded=0;endFill=0;strokeWidth=2;targetPerimeterSpacing=0;startSize=8;endSize=11;fontStyle=0;fontSize=18;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="124" y="654" as="sourcePoint" />
             <mxPoint x="124" y="545" as="targetPoint" />

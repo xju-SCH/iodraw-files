@@ -191,7 +191,7 @@
           <mxGeometry x="38.43520782396088" y="31.100766737907556" width="129.58821925279523" height="112.72399893907532" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-32" value="Preprocessed&lt;div style=&quot;font-size: 24px;&quot;&gt;CT Images&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontStyle=1" parent="RxK3w-T4h9OjYKu7ERNL-5" vertex="1">
-          <mxGeometry x="19" y="190.7170045852069" width="166" height="70" as="geometry" />
+          <mxGeometry x="11" y="178.7170045852069" width="166" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-L2bmht-8zTboc9u90Vn-33" value="Backbone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontStyle=1" parent="RxK3w-T4h9OjYKu7ERNL-5" vertex="1">
           <mxGeometry x="263.47677261613694" y="-3" width="138" height="44" as="geometry" />
